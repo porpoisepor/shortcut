@@ -5,10 +5,10 @@ It reads the file named shortcut_list.txt in the source directory and generates 
 
 The file layout must be as follows:
 
-<alias1>,<path1>
-<alias2>,<path2>
+alias1,path1
+alias2,path2
 (...)
-<aliasN>,<pathN>
+aliasN,pathN
 
 for example:
 my C drive,C:\
