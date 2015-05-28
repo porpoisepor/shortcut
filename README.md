@@ -5,6 +5,8 @@ It reads the file named shortcut_list.txt in the source directory and generates 
 
 The file layout must be as follows:
 
+Note: this is displayed incorrectly in the default github visualizer.
+
 alias1,path1
 alias2,path2
 (...)
